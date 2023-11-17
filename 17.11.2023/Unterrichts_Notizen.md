@@ -25,8 +25,8 @@
   | Liste | `* Listenpunkt` |
   | Link | `[Beschreibung](https://www.beispiel.ch)` |
   | Bild | `![Beschreibung](https://www.beispiel.ch/bild.jpg)` |
-  | Code | ` ` `Code` ` ` ` |
-  | Tabelle | `| Spalte 1 | Spalte 2 |` |
+  | Code | \`` code `\` |
+  | Tabelle | &#124; Spalte 1 &#124; Spalte 2 &#124; |
   | Zitat | `> Zitat` |
   | Horizontale Linie | `---` |
 
