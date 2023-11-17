@@ -30,4 +30,3 @@
   | Zitat | `> Zitat` |
   | Horizontale Linie | `---` |
 
-  
