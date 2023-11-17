@@ -1,3 +1,0 @@
-# Batuhan Seker
-
-# Lernjournal
