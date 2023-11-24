@@ -6,7 +6,7 @@
 - [Bitbucket](#bitbucket)
 - [Git Befehle](#git-befehle)
 
-## Übersicht{#übersicht}
+## Übersicht {#übersicht}
 Versionskontrollsystem funktionieren in der Regel alle gleich. Es gibt aber verschiedene Arten von Versionskontrollsystemen. Die wichtigsten sind:
 - Lokale Versionskontrollsysteme
 - Online Versionskontrollsysteme
@@ -17,7 +17,7 @@ Versionskontrollsystem funktionieren in der Regel alle gleich. Es gibt aber vers
 
 Quelle [phoenixnap.com](https://phoenixnap.com/kb/what-is-git)
 
-## Lokale Versionskontrollsysteme{#lokale-versionskontrollsysteme}
+## Lokale Versionskontrollsysteme {#lokale-versionskontrollsysteme}
 
 Benutzt wird hier das Programm [Git](https://git-scm.com/). Dieses Programm ist ein Versionskontrollsystem, welches lokal auf dem Computer installiert wird. Es ist ein Open Source Programm und kann kostenlos heruntergeladen werden.
 
