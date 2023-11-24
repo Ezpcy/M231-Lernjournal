@@ -1,0 +1,7 @@
+title: Mein Projekt
+description: Eine kurze Beschreibung meines Projekts
+baseurl: "" # der Basispfad Ihrer Website relativ zur Domain
+url: "" # die URL Ihrer Website
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
