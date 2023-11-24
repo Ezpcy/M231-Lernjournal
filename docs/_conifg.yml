@@ -1,5 +1,0 @@
-title: "M231-Lernjournal" # der Titel Ihrer Website
-description: "Lernjournal für das Modul 231" # die Beschreibung Ihrer Website
-baseurl: "https://ezpcy.github.io/M231-Lernjournal/" # der Basispfad Ihrer Website relativ zur Domain
-url: "https://ezpcy.github.io/M231-Lernjournal/" # die URL Ihrer Website
-theme: jekyll-theme-dinky
