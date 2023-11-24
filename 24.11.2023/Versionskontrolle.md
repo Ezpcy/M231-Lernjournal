@@ -6,7 +6,7 @@
 - [Bitbucket](#bitbucket)
 - [Git Befehle](#git-befehle)
 
-## Übersicht (#übersicht)
+## [Übersicht] (#übersicht)
 Versionskontrollsystem funktionieren in der Regel alle gleich. Es gibt aber verschiedene Arten von Versionskontrollsystemen. Die wichtigsten sind:
 - Lokale Versionskontrollsysteme
 - Online Versionskontrollsysteme
