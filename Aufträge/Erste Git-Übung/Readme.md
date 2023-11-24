@@ -85,3 +85,7 @@ git checkout branch-name
 ```
 
 
+Review: 
+Rana Aksoy, 24.11
+
+Du hast die Aufgaben sehr gut gelöst. Ich habe einen Überblick für die ganzen Aufgaben. Die links funktionieren auch.
