@@ -17,7 +17,7 @@ Versionskontrollsystem funktionieren in der Regel alle gleich. Es gibt aber vers
 
 Quelle [phoenixnap.com](https://phoenixnap.com/kb/what-is-git)
 
-## Lokale Versionskontrollsysteme {#lokale-versionskontrollsysteme}
+## Lokale Versionskontrollsysteme
 
 Benutzt wird hier das Programm [Git](https://git-scm.com/). Dieses Programm ist ein Versionskontrollsystem, welches lokal auf dem Computer installiert wird. Es ist ein Open Source Programm und kann kostenlos heruntergeladen werden.
 
@@ -30,7 +30,7 @@ Benutzt wird hier das Programm [Git](https://git-scm.com/). Dieses Programm ist 
 - Keine Zusammenarbeit möglich
 - Keine Backups möglich
 
-## Github{#github}
+## Github
 
 Github ist eine Plattform, welche auf Git basiert. Es ist ein Versionskontrollsystem, welches online funktioniert. Es ist ein Open Source Programm und kann kostenlos benutzt werden. Es gibt aber auch eine kostenpflichtige Version, welche mehr Funktionen bietet. Github gehört zu Microsoft.
 
@@ -43,7 +43,7 @@ Github ist eine Plattform, welche auf Git basiert. Es ist ein Versionskontrollsy
 - Internetverbindung nötig
 - Langsam
 
-## Gitlab{#gitlab}
+## Gitlab
 
 Gitlab, ist ähnlich wie Github, eine Plattform zur Versionkontrolle. Auch Gitlab basiert auf Git und ist Open-Soure. Hier gibt es auch eine kostenlose Version wie auch eine kostenpflichtige Version
 
@@ -56,7 +56,7 @@ Gitlab, ist ähnlich wie Github, eine Plattform zur Versionkontrolle. Auch Gitla
 - Internetverbindung nötig
 - Langsam
 
-## Bitbucket{#bitbucket}
+## Bitbucket
 
 Bitbucket bietet genau die gleichen Funktionen wie Github und Gitlab. Auch Bitbucket basiert auf Git und ist Open-Source. Bitbucket gehört zu Atlassian.
 
@@ -69,7 +69,7 @@ Bitbucket bietet genau die gleichen Funktionen wie Github und Gitlab. Auch Bitbu
 - Internetverbindung nötig
 - Langsam
 
-## Git Befehle{#git-befehle}
+## Git Befehle
 Die wichtigen Git Befehle sind:
 - `git --help` - Zeigt alle Git Befehle an
 - `git init` - Initialisiert ein Git Repository
