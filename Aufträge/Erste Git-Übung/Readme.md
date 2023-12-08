@@ -84,3 +84,11 @@ git checkout -b branch-name
 git checkout branch-name
 ```
 
+<<<<<<< HEAD
+=======
+
+Review: 
+Rana Aksoy, 24.11
+
+Du hast die Aufgaben sehr gut gelöst. Ich habe einen Überblick für die ganzen Aufgaben. Die links funktionieren auch.
+>>>>>>> af6f11b2ddcad7866d1267379e59bbfd2f93e9a2
