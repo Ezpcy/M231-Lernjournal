@@ -75,3 +75,15 @@ Es handelt sich um das neue Datenschutzrecht das am 1.September 2023 in Kraft tr
     - Verletzung der beruflichen Schweigepflicht
     - Missachten von Verfügungen
     - Wiederhandlungen in Geschäftsbetrieben
+
+## **Aus welchem Jahr ist die Datenschutzverordnung DSV?**
+
+- Die Datenschutzverordnung DSV ist aus dem Jahr **2022**.
+
+## **Wer hat die DSV unterschrieben und ab wann gilt diese Verordnung?**
+
+- Die DSV wurde im Namen des **Bundesrates** von **Ignazio Cassis** unterschrieben und gilt ab dem **31. August 2023**.
+
+## **Was steht so grob gesagt in den Erläuterungen zum DSV?**
+
+- Die Leitplanken zur Gewährleistung und Datensicherheit werden bereits im Gesetz normiert. Durch technische und organisatorische Massnahmen soll die Datensicherheit gewährleistet werden. Die Datensicherheit soll durch die Verwendung von Verschlüsselungstechniken, durch die Verwendung von Pseudonymen und durch die Verwendung von Zugriffskontrollen gewährleistet werden.
