@@ -2,7 +2,7 @@
 
 ## **Wie ist der genaue Titel des Gesetzes?**
 
-- Der Titel des Gesetzes lautet: Datenschutzgesetz (DSG)
+- Der Titel des Gesetzes lautet: **Datenschutzgesetz (DSG)**
 
 ## **Ab wann ist das Gesetz gültig?**
 
