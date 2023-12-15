@@ -42,7 +42,7 @@
 
 ## **Wovon handelt der Anhang I und zählen Sie 3-4 der "Sachen" dort drin auf?**
 
-Es handelt sich um das neue Datenschutzrecht das am 1.September 2023 in Kraft trat.
+- Es handelt sich um das neue Datenschutzrecht das am 1.September 2023 in Kraft trat.
 1. Der Bundesrat passt den Entwurf der **DSV** in mehreren Punkten an.
 2. Die wichtigkeit der Umsetzungsfrist und entgegenkommen eines Anliegens der Wirtschaft.
 3. Das neue Datenschutzrecht stärkt den Wirtschaftsstandort.
