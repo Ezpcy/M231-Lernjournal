@@ -15,7 +15,7 @@ Ich betreibe einen eigenen Server der auf Ubuntu läuft, diese besitzt über Dre
 
 ![Nextcloud](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1200px-Nextcloud_Logo.svg.png)
 
-![Ubuntu](x_resources/ubuntu.png)
+![Ubuntu](x_ressources/ubuntu.png)
 
 # Andere Backup Möglichkeiten
 
@@ -28,7 +28,7 @@ Ein **NAS Server** (eigener Server mit TrueNAS oder Fertigsysteme z.B von Synolo
 ![TrueNAS](https://pbs.twimg.com/profile_images/1445829681270251525/ykuR5Gtl_400x400.png)
 - [TrueNAS](https://www.truenas.com/)
 
-![Synology](x_resources/synology.png)
+![Synology](x_ressources/synology.png)
 
 - [Synology](https://www.synology.com/de-de)
 
@@ -42,6 +42,6 @@ Folgende Möglichkeiten bietet Macrium Reflect:
 - **Clone**: Kopieren einer Festplatte oder Partition auf eine andere Festplatte oder Partition
 - **Rescue Media**: Erstellen eines bootfähigen USB-Sticks oder einer bootfähigen CD/DVD, um ein Backup wiederherzustellen
 
-![Macrium Reflect](x_resources/macrium.png)
+![Macrium Reflect](x_ressources/macrium.png)
 
 - [Macrium Reflect](https://www.macrium.com/reflectfree)
