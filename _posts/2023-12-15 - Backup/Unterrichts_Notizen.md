@@ -8,9 +8,9 @@
 
 - **Macrium** - Softwarehersteller von leistungsstarker Backup Software
 
-- **File** - History in Windows Standard Tool zum Erstellen von Dateilevel-Backups
+- **File History** - in Windows Standard Tool zum Erstellen von Dateilevel-Backups
 
-- **Time** - Machine (Apple) Dateisicherungssoftware von Apple
+- **Time Machine** - Dateisicherungssoftware von Apple
 
 - **Timeshift** - (Ubuntu) Dateisicherungssoftware für Linux Desktopsysteme
 
