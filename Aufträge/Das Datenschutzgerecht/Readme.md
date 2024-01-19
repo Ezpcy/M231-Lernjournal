@@ -24,7 +24,7 @@
 
 - Das Gesetz hat **10 Kapitel**.
 
-## **Wie viele Artikel hat das Gesetz?**- 
+## **Wie viele Artikel hat das Gesetz?**-
 
 - Das Gesetz hat **74 Artikel**.
 
@@ -43,6 +43,7 @@
 ## **Wovon handelt der Anhang I und zählen Sie 3-4 der "Sachen" dort drin auf?**
 
 - Es handelt sich um das neue Datenschutzrecht das am 1.September 2023 in Kraft trat.
+
 1. Der Bundesrat passt den Entwurf der **DSV** in mehreren Punkten an.
 2. Die wichtigkeit der Umsetzungsfrist und entgegenkommen eines Anliegens der Wirtschaft.
 3. Das neue Datenschutzrecht stärkt den Wirtschaftsstandort.
@@ -69,12 +70,12 @@
 
 - Gemäss **Art. 60**, **Art. 61**, **Art. 62**, **Art. 63**, können Bussen von bis zu 250'000 Franken verhängt werden.
 
-- Bestraft wird man: 
-    - für die Verletzung von Informations-, Auskunfts- und Mitwirkungspflichten
-    - Verletzung der Sorgfaltspflicht
-    - Verletzung der beruflichen Schweigepflicht
-    - Missachten von Verfügungen
-    - Wiederhandlungen in Geschäftsbetrieben
+- Bestraft wird man:
+  - für die Verletzung von Informations-, Auskunfts- und Mitwirkungspflichten
+  - Verletzung der Sorgfaltspflicht
+  - Verletzung der beruflichen Schweigepflicht
+  - Missachten von Verfügungen
+  - Wiederhandlungen in Geschäftsbetrieben
 
 ## **Aus welchem Jahr ist die Datenschutzverordnung DSV?**
 
