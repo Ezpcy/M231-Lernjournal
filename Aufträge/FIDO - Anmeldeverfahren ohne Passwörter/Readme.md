@@ -9,7 +9,7 @@ FIDO - Anmeldeverfahren ohne Passwörter
 
 **Wie geht ein passwortloses Anmeldeverfahren?**
 
-- Man meldet sich mit einem Gerät an (Moiltelefon z.B.), dieses Gerät verlangt dann eine Authentifizierung mit einem PIN, Fingerabdruck, Gesicht etc.
+- Man verwendet ein Gerät an (Moiltelefon z.B.). Bei der Anmeldung verlangt dieses Gerät dann eine Authentifizierung mit einem PIN, Fingerabdruck, Gesicht etc.
 
 **Warum ist eine Anmeldung mit einem PIN auch gut?**
 
