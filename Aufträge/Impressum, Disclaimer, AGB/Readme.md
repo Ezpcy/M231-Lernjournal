@@ -22,7 +22,7 @@ In der Schweiz besteht Impressum-Pflicht, wenn die Webseite oder App **nicht** r
 
 ##  Aufgabe 4: Wann besteht in Deutschland (oder in der EU) Impressum-Pflicht? Und wann nicht? Gibt es Unterschiede zur Schweiz?
 
-In Deutschland un der EU ist die Impressumspflicht für Webseiten und Apps gesetzlich vorgeschrieben und weichen zum Teil von der Schweiz ab. Für folgendes besteht Impressum-Pflicht:
+In Deutschland und der EU ist die Impressumspflicht für Webseiten und Apps gesetzlich vorgeschrieben und weichen zum Teil von der Schweiz ab. Für folgendes besteht Impressum-Pflicht:
 
 - Geschäftsmässige Online-Dienste
 - Medieninhalten
@@ -59,6 +59,8 @@ AGB steht für Allgemeine Geschäftsbedingungen. In den AGB werden die Rechte un
 - [Microsoft](https://www.microsoft.com/de-de/servicesagreement/)
 - [Google](https://policies.google.com/terms?hl=de)
 - [Amazon](https://www.amazon.de/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM)
+
+-----------------------------
 
 >**Quellen:** 
 > - [startwerk.ch](https://www.startwerk.ch/2011/11/09/recht-fur-startups-die-kommende-impressumspflicht/#:~:text=In%20der%20Schweiz%20gibt%20es,Zeitschriften%20gilt%20eine%20ausdr%C3%BCckliche%20Impressumspflicht.)
